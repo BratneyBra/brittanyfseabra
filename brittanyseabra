@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+  <p>This is my first web page Brittany Seabra</p>
+  <body>
+  <img src="virtual landscape.jpg"height="400">
+  <h1>This my Intro to New Media page.</h1>
+    <p>From this page you can access all my homework for HUW 112</p>
+    <ul>
+      <li><a href="wildseedportrait.html">Alter Ego Project</a></li>
+      <li><a href="pattern.html">3D Pattern</a></li>
+      <li><a href="logo.html">Colour Study</a></li>
+      <li><a href="film.html">Film</a></li>
+      </body>
+</html>
